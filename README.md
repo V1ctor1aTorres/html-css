@@ -1,4 +1,3 @@
 # html-css
- curso de html-css
-
- Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
+ Curso de HTML5 e CSS3 
+ Curso em Video, professor Gustavo Guanabara
